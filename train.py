@@ -1,4 +1,5 @@
 from tqdm import trange
+from tqdm import tqdm
 import torch
 from torch.utils.data import DataLoader
 from logger import Logger
